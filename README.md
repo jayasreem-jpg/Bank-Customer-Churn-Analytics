@@ -51,16 +51,17 @@ This project analyzes customer churn within a banking institution to identify fa
 # 📷 Dashboard Preview
 
 ## Executive Overview
+## 📊 Executive Overview
 
-![Executive Dashboard](Screenshot%201.png)
-
----
-
-## Customer & Risk Analysis
-
-![Customer Dashboard](Screenshot%202.png)
+![Executive Overview](Executive-Overview.png)
 
 ---
+
+## ⚠️ Customer & Risk Analysis
+
+![Customer & Risk Analysis](Customer-Risk-Analysis.png)
+
+
 
 # 💼 Skills Demonstrated
 
